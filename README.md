@@ -18,7 +18,7 @@ The project uses the Brazilian E-Commerce Public Dataset by Olist.
 RetailIQ/
 ├── dashboard/
 │   ├── Dashboard.pbix
-│   └── RetailIQ_Dashboard.pbix
+│   └── RetailQ_Dashboard.pbix
 ├── notebooks/
 │   ├── 01_data_understanding.ipynb
 │   ├── 02_data_preparation.ipynb
@@ -35,12 +35,6 @@ RetailIQ/
 ├── README.md
 └── requirements.txt
 ```
-
-## Power BI Dashboard
-
-I created a Power BI dashboard to explore different aspects of the store's performance. It includes separate views for sales, customers, products, delivery performance, and sellers.
-
-Click any screenshot to view it in full size.
 
 ## Power BI Dashboard
 
